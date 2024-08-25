@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765156392909",
+    "project_id": "housiekings",
+    "storage_bucket": "housiekings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765156392909:android:466107d51d7368e44e0e84",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.housie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765156392909-3vagb08fuu01grhs283fk1naf1869le1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9rACiGjSzE8wSZh9aiKbyKINXfyh1RzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765156392909-3vagb08fuu01grhs283fk1naf1869le1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
